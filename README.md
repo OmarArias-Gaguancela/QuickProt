@@ -1,3 +1,3 @@
 # QuickProt
-  <img src="https://github.com/omarariasgaguancela1/QuickProt/blob/main/Logos/Slide1.jpg" width="180" height="100">
+  <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt.jpg" width="180" height="100">
 
