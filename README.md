@@ -4,7 +4,10 @@
 QuickProt comprises a series of Google Colab pipelines designed to facilitate and accelerate DIA and PRM proteomics data mining and visualization. 
 Without any coding experience, users only need to create a folder in Google Drive and store the spreadsheet in TSV or CSV format from DIA-NN or Skyline, respectively. 
 As these pipelines are released under the MIT License, users can modify the code and incorporate it into their bioinformatic workflows as they see fit.
-The outputs generated from this pipeline are stored in two folders. 
+The outputs generated from this pipeline are stored in two folders within the Google Drive folder created by the user. 
+
+ <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt_outputs.jpg" width="180" height="100">
+ 
 The folder named 'TABLES' contains all annotated tables required for plotting figures (bar plots, heatmaps, etc.), whereas the folder named 'PLOTS' contains all the generated figures as TIFF files at 300 dpi.
 
 **QuickProt-DIA pipelines**
