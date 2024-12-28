@@ -8,6 +8,7 @@ The outputs generated from this pipeline are stored in two folders within the Go
  <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt_outputs.jpg" width="180" height="100">
  
 The folder named 'TABLES' contains all annotated tables required for plotting figures (bar plots, heatmaps, etc.), whereas the folder named 'PLOTS' contains all the generated figures as TIFF files at 300 dpi.
+
 **Note:** As these pipelines are released under the MIT License, users can modify the code and incorporate it into their bioinformatic workflows as they see fit.
 
 **QuickProt-DIA pipelines**
