@@ -1,8 +1,7 @@
 # QuickProt
   <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt.jpg" width="180" height="100">
 
-
-1. **QuickProt-DIA pipelines**
+**QuickProt-DIA pipelines**
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt DIA.jpg" width="180" height="100">
 
  
