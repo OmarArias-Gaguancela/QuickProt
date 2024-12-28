@@ -1,6 +1,11 @@
 # QuickProt
   <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt.jpg" width="180" height="100">
 
+QuickProt comprises a series of Google Collab pipelines to facilitate and accelerate DIA and PRM proteomics data mining and visualization. 
+Without any coding experience, the user only has to create a folder in Google Drive and store a spreadsheet in TSV or CSV formats from DIA-NN or Skyline, respectively. 
+
+
+
 **QuickProt-DIA pipelines**
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt DIA.jpg" width="180" height="100">
