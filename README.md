@@ -20,7 +20,7 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
               
    1.2. **QuickProt-DIA using Skyline input** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_Skyline_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using Skyline spreadsheet "DIA_RESULTS.csv" as input.
 
-**2. QuickProt-DIA pipelines**
+**2. QuickProt-PRM pipelines**
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt PRM.jpg" width="180" height="100">
 
