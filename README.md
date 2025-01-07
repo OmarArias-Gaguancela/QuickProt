@@ -25,7 +25,7 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt DIA.jpg" width="180" height="100">
 
  
-   2.1. **QuickProt-DIA (Heaby label)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt-PRM_Heavy_label.ipynb): This pipeline aims to analyze and visualize PRM proteomics data using the Skyline spreadsheet titled "PRM_RESULTS_Heavy_label.csv" as input.
+   2.1. **QuickProt-DIA (Heaby label)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PRM_Heavy_label.ipynb): This pipeline aims to analyze and visualize PRM proteomics data using the Skyline spreadsheet titled "PRM_RESULTS_Heavy_label.csv" as input.
               
    2.2. **QuickProt-DIA (Free label)** 
 
