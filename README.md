@@ -11,11 +11,21 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
 
 **Note:** As these pipelines are released under the MIT License, users can modify the code and incorporate it into their bioinformatic workflows as they see fit.
 
-**QuickProt-DIA pipelines**
+**1. QuickProt-DIA pipelines**
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt DIA.jpg" width="180" height="100">
 
  
-   1.1. **QuickProt-DIA using DIA-NN input** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_DIA_NN_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using DIA-NN spreadsheet "report.tsv" as input
+   1.1. **QuickProt-DIA using DIA-NN input** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_DIA_NN_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using DIA-NN spreadsheet "report.tsv" as input.
               
-   1.2. **QuickProt-DIA using Skyline input** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_Skyline_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using Skyline spreadsheet "DIA_RESULTS.csv" as input
+   1.2. **QuickProt-DIA using Skyline input** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_Skyline_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using Skyline spreadsheet "DIA_RESULTS.csv" as input.
+
+**2. QuickProt-DIA pipelines**
+
+<img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt DIA.jpg" width="180" height="100">
+
+ 
+   2.1. **QuickProt-DIA (Heaby label)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt-PRM_Heavy_label.ipynb): This pipeline aims to analyze and visualize PRM proteomics data using the Skyline spreadsheet titled "PRM_RESULTS_Heavy_label.csv" as input.
+              
+   2.2. **QuickProt-DIA (Free label)** 
+
