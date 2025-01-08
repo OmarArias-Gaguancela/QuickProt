@@ -41,6 +41,6 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt ID Search.jpg" width="180" height="100">
 
-This pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_ID_Search.ipynb) aims to search Protein IDs in UniProt database based on a list of gene names. 
+This pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_ID_Search.ipynb) aims to search Protein IDs in the UniProt database based on a list of gene names. 
 
 
