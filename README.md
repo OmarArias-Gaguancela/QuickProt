@@ -29,12 +29,18 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
               
    2.2. **QuickProt-PRM (Free label)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PRM_Free_label.ipynb): This pipeline aims to analyze and visualize PRM proteomics data using the Skyline output table. This pipeline is specifically designed to calculate the relative abundance of PRM protein targets. Input: Skyline output table **"PRM_RESULTS_Free_label.csv"**.
 
-  **3. QuickProt-PepSeq pipeline**
+  **3. QuickProt-PepSeq pipelines**
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt PepSeq.jpg" width="180" height="100">
 
   3.1. **QuickProt-PepSeq (DIA-NN)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PepSeq_DIA_NN.ipynb): This pipeline aims to map DIA-detected peptides to a given amino acid sequence region. This is especially useful when trying to assess the number of peptides that were detected in a DIA dataset for a given protein domain, N-terminal region, C-terminal region, etc. Input: QuickProt-DIA processed table **"report_updated.csv"**.
 
   3.1. **QuickProt-PepSeq (Skyline)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PepSeq_Skyline.ipynb): This pipeline aims to map DIA-detected peptides to a given amino acid sequence region. This is especially useful when trying to assess the number of peptides that were detected in a DIA dataset for a given protein domain, N-terminal region, C-terminal region, etc. Input: QuickProt-DIA processed table **"DIA_RESULTS_UPDATED.csv"**.
+
+**4. QuickProt-PepSeq pipeline**
+
+<img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt ID Search.jpg" width="180" height="100">
+
+This pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_ID_Search.ipynb) aims to search Protein IDs in UniProt database based on a list of gene names. 
 
 
