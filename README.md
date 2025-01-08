@@ -16,17 +16,22 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt DIA.jpg" width="180" height="100">
 
  
-   1.1. **QuickProt-DIA using DIA-NN input** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_DIA_NN_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using the DIA-NN output table. Input: DIA-NN output table **"report.tsv"**
+   1.1. **QuickProt-DIA using DIA-NN input** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_DIA_NN_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using the DIA-NN output table. Input: DIA-NN output table **"report.tsv"**.
               
-   1.2. **QuickProt-DIA using Skyline input** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_Skyline_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using the Skyline output table. Input: Skyline output table **"DIA_results.csv"**
+   1.2. **QuickProt-DIA using Skyline input** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_Skyline_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using the Skyline output table. Input: Skyline output table **"DIA_results.csv"**.
 
 **2. QuickProt-PRM pipelines**
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt PRM.jpg" width="180" height="100">
 
  
-   2.1. **QuickProt-PRM (Heaby label)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PRM_Heavy_label.ipynb): This pipeline aims to analyze and visualize PRM proteomics data using the Skyline output table. This pipeline is designed to calculate the absolute number of copies of target proteins using heavy labeled standards/peptides (e.g. QconCATs). Input: Skyline output table **"PRM_RESULTS_Heavy_label.csv"**
+   2.1. **QuickProt-PRM (Heaby label)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PRM_Heavy_label.ipynb): This pipeline aims to analyze and visualize PRM proteomics data using the Skyline output table. This pipeline is designed to calculate the absolute number of copies of target proteins using heavy labeled standards/peptides (e.g. QconCATs). Input: Skyline output table **"PRM_RESULTS_Heavy_label.csv"**.
               
-   2.2. **QuickProt-PRM (Free label)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PRM_Free_label.ipynb): This pipeline aims to analyze and visualize PRM proteomics data using the Skyline output table. This pipeline is specifically designed to calculate the relative abundance of PRM protein targets. Input: Skyline output table **"PRM_RESULTS_Free_label.csv"**
-       
+   2.2. **QuickProt-PRM (Free label)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PRM_Free_label.ipynb): This pipeline aims to analyze and visualize PRM proteomics data using the Skyline output table. This pipeline is specifically designed to calculate the relative abundance of PRM protein targets. Input: Skyline output table **"PRM_RESULTS_Free_label.csv"**.
+
+  **3. QuickProt-PepSeq pipeline**
+
+<img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt PepSeq.jpg" width="180" height="100">
+
+This pipeline aims to map DIA-detected peptides to a given amino acid sequence region. This is especially useful when trying to assess the number of peptides that were detected in a DIA dataset for a given protein domain, N-terminal region, C-terminal region, etc. Input: The QuickProt-DIA talbe named **"report_updated.csv"**.
 
