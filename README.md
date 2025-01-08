@@ -33,5 +33,5 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt PepSeq.jpg" width="180" height="100">
 
-This pipeline aims to map DIA-detected peptides to a given amino acid sequence region. This is especially useful when trying to assess the number of peptides that were detected in a DIA dataset for a given protein domain, N-terminal region, C-terminal region, etc. Input: The QuickProt-DIA talbe named **"report_updated.csv"**.
+QuickProt-PepSeq [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PRM_Heavy_label.ipynb) aims to map DIA-detected peptides to a given amino acid sequence region. This is especially useful when trying to assess the number of peptides that were detected in a DIA dataset for a given protein domain, N-terminal region, C-terminal region, etc. Input: QuickProt-DIA processed table **"report_updated.csv"**.
 
