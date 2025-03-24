@@ -44,6 +44,8 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
 This pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_ID_Search.ipynb) aims to search Protein IDs in the UniProt database based on a list of gene names. 
 
 **Do you want to cite this work?**
+
+
 Arias-Gaguancela, O., Palii, C., Un Nissa, M., Brand, M., & Ranish, J. QuickProt: A bioinformatics and visualization tool for DIA and PRM mass spectrometry-based proteomics datasets. [In preparation]
 
 
