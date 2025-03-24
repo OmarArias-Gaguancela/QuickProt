@@ -46,7 +46,7 @@ This pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-b
 **Do you want to cite this work?**
 
 
-Arias-Gaguancela, O., Palii, C., Un Nissa, M., Brand, M., & Ranish, J. QuickProt: A bioinformatics and visualization tool for DIA and PRM mass spectrometry-based proteomics datasets. [In preparation]
+Arias-Gaguancela, O., Palii, C., Un Nissa, M., Brand, M., & Ranish, J. QuickProt: A bioinformatics and visualization tool for DIA and PRM mass spectrometry-based proteomics datasets. [Submitted to bioRxiv]
 
 
 
