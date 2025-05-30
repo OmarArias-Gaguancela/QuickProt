@@ -20,6 +20,8 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
               
    1.2. **QuickProt-DIA (Skyline)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_DIA_Skyline_input.ipynb): This pipeline aims to analyze and visualize DIA proteomics data using the Skyline output table. Input: Skyline output table **"DIA_results.csv"**.
 
+   Link to dowload example file: https://drive.google.com/file/d/1n6dYOnOhe2gfnvfXuctPWb1-vlu-a5XC/view?usp=drive_link 
+
 **2. QuickProt-PRM pipelines**
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt PRM.jpg" width="180" height="100">
@@ -41,7 +43,7 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt ID Search.jpg" width="180" height="100">
 
-This pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_ID_Search.ipynb) aims to search Protein IDs in the UniProt database based on a list of gene names. 
+This pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_ID_Search.ipynb) aims to search Protein IDs in the UniProt database based on a list of gene names.
 
 **Do you want to cite this work?**
 
