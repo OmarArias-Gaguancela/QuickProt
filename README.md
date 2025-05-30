@@ -37,7 +37,7 @@ The folder named 'TABLES' contains all annotated tables required for plotting fi
 
   3.1. **QuickProt-PepSeq (Skyline)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmarArias-Gaguancela/QuickProt/blob/main/QuickProt_PepSeq_Skyline.ipynb): This pipeline aims to map DIA-detected peptides to a given amino acid sequence region. This is especially useful when assessing the number of peptides detected in a DIA dataset for a given protein domain, N-terminal region, C-terminal region, etc. Input: QuickProt-DIA processed table **"DIA_RESULTS_UPDATED.csv"**.
 
-**4. QuickProt-PepSeq pipeline**
+**4. QuickProt-ID-Search pipeline**
 
 <img src="https://raw.githubusercontent.com/OmarArias-Gaguancela/LOGOS_OAG/main/QuickProt ID Search.jpg" width="180" height="100">
 
